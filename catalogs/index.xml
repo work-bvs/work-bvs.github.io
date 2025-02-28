@@ -6,23 +6,23 @@
     <description>Recent content in Каталоги on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <copyright>© 1996-2025 | Версия 4.0</copyright><atom:link href="https://work-bvs.github.io/catalogs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 1996-2025 | Версия 5.0</copyright><atom:link href="https://work-bvs.github.io/catalogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Печатные</title>
       <link>https://work-bvs.github.io/catalogs/print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://work-bvs.github.io/catalogs/print/</guid><media:content url="https://work-bvs.github.io/catalogs/print/catalog_01_hu_b1f1c9f146ccdf9b.jpg" type="image/jpeg"/>
+      <guid>https://work-bvs.github.io/catalogs/print/</guid><media:content url="https://work-bvs.github.io/catalogs/print/catalog_01_hu_7e5da25336f0394b.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://work-bvs.github.io/catalogs/print/catalog_01_hu_b1f1c9f146ccdf9b.jpg&quot; /&gt;
+          &lt;img src=&quot;https://work-bvs.github.io/catalogs/print/catalog_01_hu_7e5da25336f0394b.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Электронные</title>
       <link>https://work-bvs.github.io/catalogs/web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://work-bvs.github.io/catalogs/web/</guid><media:content url="https://work-bvs.github.io/catalogs/web/catalog_27_hu_55dc8db8ac0ea515.jpg" type="image/jpeg"/>
+      <guid>https://work-bvs.github.io/catalogs/web/</guid><media:content url="https://work-bvs.github.io/catalogs/web/web_catalog_01_hu_d3c23ec6901fbc41.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://work-bvs.github.io/catalogs/web/catalog_27_hu_55dc8db8ac0ea515.jpg&quot; /&gt;
+          &lt;img src=&quot;https://work-bvs.github.io/catalogs/web/web_catalog_01_hu_d3c23ec6901fbc41.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
