@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Каталоги on </title>
+    <title>Каталоги on Валерий Богданов</title>
     <link>https://work-bvs.github.io/catalogs/</link>
-    <description>Recent content in Каталоги on </description>
+    <description>Recent content in Каталоги on Валерий Богданов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <copyright>© 1996-2025 | Версия 5.0</copyright><atom:link href="https://work-bvs.github.io/catalogs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 1996-2025 | Версия портфолио 5.0</copyright><atom:link href="https://work-bvs.github.io/catalogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Печатные</title>
-      <link>https://work-bvs.github.io/catalogs/print/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://work-bvs.github.io/catalogs/print/</guid><media:content url="https://work-bvs.github.io/catalogs/print/catalog_01_hu_7e5da25336f0394b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://work-bvs.github.io/catalogs/print/catalog_01_hu_7e5da25336f0394b.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Электронные</title>
+      <title>WEB каталоги</title>
       <link>https://work-bvs.github.io/catalogs/web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://work-bvs.github.io/catalogs/web/</guid><media:content url="https://work-bvs.github.io/catalogs/web/web_catalog_01_hu_d3c23ec6901fbc41.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;https://work-bvs.github.io/catalogs/web/web_catalog_01_hu_d3c23ec6901fbc41.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Печатные каталоги</title>
+      <link>https://work-bvs.github.io/catalogs/print/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://work-bvs.github.io/catalogs/print/</guid><media:content url="https://work-bvs.github.io/catalogs/print/catalog_01_hu_7e5da25336f0394b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://work-bvs.github.io/catalogs/print/catalog_01_hu_7e5da25336f0394b.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
